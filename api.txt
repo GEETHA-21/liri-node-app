@@ -1,0 +1,6 @@
+ omdb api:http://www.omdbapi.com/?i=tt3896198&apikey=c27bb7ee
+
+ [ Base URL: virtserver.swaggerhub.com/uc-davis9/geetha/1.0.0 ]
+
+ Spotify Documentation
+    https://developer.spotify.com/documentation/general/guides/app-settings/
